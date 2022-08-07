@@ -14,7 +14,7 @@ near call factory.shardnet.near create_staking_pool '{"staking_pool_id": "<pool 
 
 **example:**
 ```
-near call factory.shardnet.near create_staking_pool '{"staking_pool_id": "vicmeo", "owner_id": "vicmeo.shardnet.near", "stake_public_key": "ed25519:2jprrcWXXeBz2KgDr4i4owoPn7aHHSXLUzhZWENhE24k", "reward_fee_fraction": {"numerator": 1, "denominator": 100}, "code_hash":"DD428g9eqLL8fWUxv8QSpVFzyHi1Qd16P8ephYCTmMSZ"}' --accountId="vicmeo.shardnet.near" --amount=1111 --gas=300000000000000
+near call factory.shardnet.near create_staking_pool '{"staking_pool_id": "ben23", "owner_id": "ben23.shardnet.near", "stake_public_key": "ed25519:2jprrcWXXeBz2KgDr4i4owoPn7aHHSXLUzhZWENhE24k", "reward_fee_fraction": {"numerator": 1, "denominator": 100}, "code_hash":"DD428g9eqLL8fWUxv8QSpVFzyHi1Qd16P8ephYCTmMSZ"}' --accountId="ben23.shardnet.near" --amount=1111 --gas=300000000000000
 ```
 ![mount staking pool](../challenges/images/mount%20staking.png)
 
