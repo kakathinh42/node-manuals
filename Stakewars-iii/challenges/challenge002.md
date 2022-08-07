@@ -130,3 +130,6 @@ sudo apt install ccze
 journalctl -fu neard | ccze -A
 ```
 ![Log Service Near](../challenges/images/log%20service%20near.png)
+
+ # Next Challenge
+ [Chanllenge003](challenge003.md)

@@ -50,4 +50,5 @@ curl -r -s -d '{"jsonrpc": "2.0", "method": "validators", "id": "dontcare", "par
 ```
 ![check block produce](../challenges/images/check%20block%20produce.png)
 
-
+ # Next Challenge
+ [Chanllenge005](challenge005.md)

@@ -83,3 +83,5 @@ near call <staking_pool_id> pause_staking '{}' --accountId <accountId>
 ```
 near call <staking_pool_id> resume_staking '{}' --accountId <accountId>
 ```
+ # Next Challenge
+ [Chanllenge004](challenge004.md)

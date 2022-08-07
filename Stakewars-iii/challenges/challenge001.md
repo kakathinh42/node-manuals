@@ -83,3 +83,6 @@ You can check next “validator” with command:
 near validators next
 ```
 ![validator next](../challenges/images/validator%20next.png)
+
+ # Next Challenge
+ [Chanllenge002](challenge002.md)
